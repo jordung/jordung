@@ -5,8 +5,9 @@
 [![Linkedin: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanangyida/)](https://www.linkedin.com/in/jordanangyida/)
 [![GitHub](https://img.shields.io/github/followers/jordung?label=follow&style=social)](https://github.com/jordung)
 [![Portfolio](https://img.shields.io/badge/Portfolio-343546.svg?&style=flat-square&logo=brave&logoColor=FB542B&link=https://jordung.github.io/portfolio/)](https://jordung.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jordanayd@gmail.com)
 
-I'm a front-end engineer that loves bringing design and functionality together. The ability to transform my imagination into reality through code is a profound motivation for me, and I enjoy bringing my ideas through to the end. Do check out my portfolio and projects documented [here](https://jordung.github.io/portfolio/)! Thank you :) 
+I'm a front-end engineer that loves bringing design and functionality together. The ability to transform my imagination into reality through code is a profound motivation for me, and I enjoy bringing products from ideation to completion. 
 
 ### A little more information about me...
 ```javascript
