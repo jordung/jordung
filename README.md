@@ -15,9 +15,9 @@ const Jordan = {
   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "SQL"],
   askMeAbout: ["web dev", "coffee", "f1", "photography", "reading"],
   technology: {
-    frontEnd: ["React", "TailwindCSS", "Styled-Components"],
+    frontEnd: ["React", "TailwindCSS", "DaisyUI", "Styled-Components"],
     mobileApp: ["React Native"],
-    others: ["Firebase"]
+    others: ["Firebase", "Axios", "JWT", "Auth0"]
   },
   currentFocus: "Building a react native project for a travel-log mobile app!"
 }
