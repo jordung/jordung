@@ -16,9 +16,10 @@ const Jordan = {
   askMeAbout: ["web dev", "coffee", "f1", "photography", "reading"],
   technology: {
     frontEnd: ["React", "TailwindCSS", "DaisyUI", "Styled-Components"],
+    backEnd: ["Sequelize", "Express", "NodeJS"],
     mobileApp: ["React Native"],
-    others: ["Firebase", "Axios", "JWT", "Auth0"]
+    others: ["Firebase", "Axios", "JWT", "Auth0", "Fly.io", "Netlify"]
   },
-  currentFocus: "Building a react native project for a travel-log mobile app!"
+  currentFocus: "Building a streamlined collaboration platform that optimises the efficiency of daily stand-ups and project management for teams!"
 }
 ```
